@@ -1,0 +1,8 @@
+ignore_files:
+  - test/
+  - .eslintignore
+  - .eslintrc.json
+  - .gitignore
+  - jest.config.js
+  - nyc.config.js
+  - README.md
